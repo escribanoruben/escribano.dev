@@ -1,0 +1,5 @@
+baseURL = 'https://escribano.dev/'
+languageCode = 'es-es'
+title = 'escribano.dev'
+theme = 'ananke'
+
